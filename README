@@ -1,3 +1,6 @@
-My PacMen exercise where I changed the PacMan into a Ninja Turtle.
-Open the PacMen Solution file into your browser and add as many turtles as you wish with the add pacman button.
-Start the game with the start button and they will bounce around the screen at different speeds.
+PacMan Factory Exercise
+
+My PacMen exercise where I changed the PacMan into a star.  You can create as many as you like and click start to have them bounce around the screen.
+
+How To Run:  Download and unzip the code files.  Open index.html in the browser window and then you can add stars and start the bouncing by clicking start button.
+            They will bounce around the screen at different speeds and get faster if you keep clicking start button.
